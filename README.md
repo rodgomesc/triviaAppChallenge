@@ -1,8 +1,5 @@
 ## steps to run the application
 
-> ### note: a compiled **APK** of the application it's on dist folder (`triviaAppChallenge/dist`) making it unnecessary to follow the steps below
-
-## How to install dependencies and run the project
 
 ```shell
 # goto project folder
